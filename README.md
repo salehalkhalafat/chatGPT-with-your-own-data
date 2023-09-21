@@ -39,5 +39,4 @@ For detailed installation and usage instructions, please refer to the Documentat
 Contribution
 Contributions to this project are welcome! Feel free to submit bug reports, feature requests, or pull requests through our GitHub repository.
 
-License
-This project is open-source and released under the MIT License. Please review the license terms before using or contributing to the project.
+
