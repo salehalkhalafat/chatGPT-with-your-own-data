@@ -66,6 +66,13 @@ from langchain.document_loaders import DirectoryLoader, WebBaseLoader, TextLoade
   The result will be:
   <pre>
     Summarized Text:
-   Artificial Intelligence (AI) has revolutionized various industries, with Natural Language Processing (NLP) and Large Language Models (LLMs) gaining significant attention. ChatGPT, a creation     of OpenAI, is a remarkable LLM that showcases advanced language understanding and generation capabilities. NLP focuses on enabling machines to comprehend and generate human-like language,        while LLMs like GPT-3 and ChatGPT have shown exceptional language understanding and generation capabilities. ChatGPT has applications in conversational agents, content generation, and            programming assistance, but challenges such as bias and ethical concerns need to be addressed. Overall, AI, NLP, and LLMs represent the forefront of technological innovation, with responsible    development and ethical considerations playing a crucial role in harnessing their full potential for the benefit of society.
+    Artificial Intelligence (AI) has revolutionized various industries, with Natural Language Processing (NLP) and Large 
+    Language Models (LLMs) gaining significant attention. ChatGPT, a creation of OpenAI, is a remarkable LLM that showcases 
+    advanced language understanding and generation capabilities. NLP focuses on enabling machines to comprehend and generate 
+    human-like language, while LLMs like GPT-3 and ChatGPT have shown exceptional language understanding and generation 
+    capabilities. ChatGPT has applications in conversational agents, content generation, and programming assistance, but challenges 
+    such as bias and ethical concerns need to be addressed. Overall, AI, NLP, and LLMs represent the forefront of technological 
+    innovation, with responsible development and ethical considerations playing a crucial role in harnessing their full potential 
+    for the benefit of society.
   </pre>
   
