@@ -1,5 +1,7 @@
 # ChatGPT with your own data using LangChain 🦜️🔗
-
+## Your data, your ChatGPT. LangChain makes it happen
+This repository empowers you to break free from generic AI and build your own personalized ChatGPT model.  Leveraging the flexibility of LangChain, you can train ChatGPT on your own data, be it code, documents, emails, or any text format that sparks your imagination. ✨
+A powerful process where you can leverage the capabilities of ChatGPT, a popular generative AI model, and tailor its responses to your specific needs using LangChain, a versatile data integration and manipulation tool.
 ### ChatGPT models:
 | Models   | MODEL FAMILIES	| API ENDPOINT |
 | -------- | -------- | -------- |
