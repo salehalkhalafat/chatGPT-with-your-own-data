@@ -34,10 +34,9 @@ from langchain.document_loaders import DirectoryLoader, WebBaseLoader, TextLoade
 <pre>
   pip install requirements.txt
 </pre>
-* In constant.py, you should replace "YOUR API KEY" with your own key.
+* In constant.py, you should replace "YOUR API KEY" with your own OpenAI API Key https://platform.openai.com/account/api-keys
   <pre>
-# Replace with your own OpenAI API Key https://platform.openai.com/account/api-keys
-APIKEY = "YOUR API KEY"
+    APIKEY = "YOUR API KEY"
   </pre>
 ### Test:
 * After setting up the environment and after running the python file, a prompt will pop up.
