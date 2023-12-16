@@ -34,3 +34,39 @@ from langchain.document_loaders import DirectoryLoader, WebBaseLoader, TextLoade
 <pre>
   pip install requirements.txt
 </pre>
+* In constant.py, you should replace "YOUR API KEY" with your own key.
+  <pre>
+# Replace with your own OpenAI API Key https://platform.openai.com/account/api-keys
+APIKEY = "YOUR API KEY"
+  </pre>
+### Test:
+* After setting up the environment and after running the python file, a prompt will pop up.
+  <pre>
+    Prompt:
+  </pre>
+* In Data folder, there is a sample data.txt, which contains an article about AI, and a cat.pdf which contains a line "My cat's name is Muffy."
+  <pre>
+    Prompt: What is my cat's name?
+  </pre>  
+  And the result will be:
+  <pre>
+    Prompt: What is my cat's name?
+    Your cat's name is Muffy.
+  </pre>
+* For summerization we will test the data.txt file.
+  <pre>
+    Select:
+    1- PDF File.
+    2- WebPage.
+    3- TXT File.
+    0 To Exit ==> 3
+  </pre>
+  <pre>
+    Your TXT File Name ==> data.txt
+  </pre>
+  The result will be:
+  <pre>
+    Summarized Text:
+   Artificial Intelligence (AI) has revolutionized various industries, with Natural Language Processing (NLP) and Large Language Models (LLMs) gaining significant attention. ChatGPT, a creation     of OpenAI, is a remarkable LLM that showcases advanced language understanding and generation capabilities. NLP focuses on enabling machines to comprehend and generate human-like language,        while LLMs like GPT-3 and ChatGPT have shown exceptional language understanding and generation capabilities. ChatGPT has applications in conversational agents, content generation, and            programming assistance, but challenges such as bias and ethical concerns need to be addressed. Overall, AI, NLP, and LLMs represent the forefront of technological innovation, with responsible    development and ethical considerations playing a crucial role in harnessing their full potential for the benefit of society.
+  </pre>
+  
