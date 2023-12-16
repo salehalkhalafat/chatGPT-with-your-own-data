@@ -12,7 +12,7 @@ while True:
   
     if command == 1:
         filename = input("Your PDF File Name ==> ")
-        file_path = os.path.join("data/", filename)
+        file_path = os.path.join("Data/", filename)
         loader = PyPDFLoader(file_path) # PDF File Summerizer
     if command == 2:
         WebPage_link = input("WebPage link ==> ")
@@ -20,7 +20,7 @@ while True:
 
     if command == 3:
         filename = input("Your TXT File Name ==> ")
-        file_path = os.path.join("data/", filename)
+        file_path = os.path.join("Data/", filename)
         loader = TextLoader(file_path) # TXT File Summerizer
     if command == 0:
         break
