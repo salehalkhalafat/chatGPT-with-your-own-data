@@ -21,8 +21,8 @@ It provide you with various loaders for different platforms and data types, such
 from langchain.document_loaders import DirectoryLoader, WebBaseLoader, TextLoader, PyPDFLoader, GitLoader, CSVLoader, PythonLoader
 </pre>
 # To Use:
-1- Clone repository.
-2- Make sure python == 3.10.12 is installed, if not:
+* Clone repository.
+* Make sure python == 3.10.12 is installed, if not:
 <pre>
   sudo apt update
   sudo apt install software-properties-common
@@ -30,7 +30,7 @@ from langchain.document_loaders import DirectoryLoader, WebBaseLoader, TextLoade
   sudo apt update
   sudo apt install python3.10
 </pre>
-2- Download requirements.txt:
+* Download requirements.txt:
 <pre>
   pip install requirements.txt
 </pre>
