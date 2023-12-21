@@ -80,4 +80,4 @@ from langchain.document_loaders import DirectoryLoader, WebBaseLoader, TextLoade
   ---------------------------------------------------------------------------------
   ## Collaborators
 
-- [!Haitham-Wahhdan](https://avatars.githubusercontent.com/u/153923301?v=4)(https://github.com/Haitham-Wahhdan).
+- [!Haitham-Wahhdan](https://github.com/Haitham-Wahhdan.png)](https://github.com/Haitham-Wahhdan).
