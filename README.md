@@ -77,4 +77,7 @@ from langchain.document_loaders import DirectoryLoader, WebBaseLoader, TextLoade
     innovation, with responsible development and ethical considerations playing a crucial role in harnessing their full potential 
     for the benefit of society.
   </pre>
-  
+  ---------------------------------------------------------------------------------
+  ## Collaborators
+
+- [Haitham-Wahhdan](https://github.com/Haitham-Wahhdan).
